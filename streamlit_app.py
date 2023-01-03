@@ -1,6 +1,6 @@
 import streamlit
 streamlit.title('My Parents New Healthy Diner')
 streamlit.header('Breakfast Menu')
-streamlit.tetx()
-streamlit.tetx('Omega 3 & Blueberry Oatmeal')   
-streamlit.tetx('Kale,Spinach & Rocket smoothie')              
+streamlit.text()
+streamlit.text('Omega 3 & Blueberry Oatmeal')   
+streamlit.text('Kale,Spinach & Rocket smoothie')              
